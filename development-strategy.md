@@ -38,7 +38,7 @@ Building this site one step at a time
 
 ### Log:
 
-- ***
+- ....
 
 ### Style:
 
