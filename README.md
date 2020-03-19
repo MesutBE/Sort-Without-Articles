@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-# Sort-Without-Articles
-Educative repository for HYF .
-=======
-=======
->>>>>>> 4c4020b7bc444f0e8081a63e4c9c5b57df40f485
 # Sort without Articles ( to be done yet !! )
 
 A static web page for rhythmic expression built with only HTML, CSS & JavaScript. This project uses .wav audio files and keypress events to turn the user's keyboard into a drum set.
@@ -39,15 +32,14 @@ These resources were very helpful:
 - [KeyBoard Event Values](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
 - [gmlwjd9405/git-collaboration](https://github.com/gmlwjd9405/git-collaboration)
 - [GitHub Project Management](https://github.com/features/project-management)
-<<<<<<< HEAD
-- [Update your fork using different ways](https://rick.cogley.info/post/update-your-forked-repository-directly-on-github/)
-=======
->>>>>>> 4c4020b7bc444f0e8081a63e4c9c5b57df40f485
+  <<<<<<< HEAD
+- # [Update your fork using different ways](https://rick.cogley.info/post/update-your-forked-repository-directly-on-github/)
+  > > > > > > > 4c4020b7bc444f0e8081a63e4c9c5b57df40f485
 
 ---
 
 > - Code refactored from [Wes Bos](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> 4c4020b7bc444f0e8081a63e4c9c5b57df40f485
+>   <<<<<<< HEAD
+>   > > > > > > # Stashed changes
+>   > > > > > >
+>   > > > > > > 4c4020b7bc444f0e8081a63e4c9c5b57df40f485
