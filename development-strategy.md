@@ -50,15 +50,20 @@ Building this site one step at a time
 
 ### App:
 
-- .....
-
-### Init:
-
-- .......
+- Read the list form data/data.js .
+- Sort it by adding functionality to skip the first articles like 'the' , 'a'..-
+- In this step app/app.js will be modified .
 
 ### Log:
 
-- .......
+- Add into project log that a sorting has been done
+- log.js will be modified .
+- app/app.js will be modified .
+
+### Init:
+
+- log step for initialization , as backlog history for the project .
+- Edit init.js file .
 
 ---
 
