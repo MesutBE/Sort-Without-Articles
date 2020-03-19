@@ -32,7 +32,14 @@ These resources were very helpful:
 - [KeyBoard Event Values](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
 - [gmlwjd9405/git-collaboration](https://github.com/gmlwjd9405/git-collaboration)
 - [GitHub Project Management](https://github.com/features/project-management)
+  <<<<<<< HEAD
+- # [Update your fork using different ways](https://rick.cogley.info/post/update-your-forked-repository-directly-on-github/)
+  > > > > > > > 4c4020b7bc444f0e8081a63e4c9c5b57df40f485
 
 ---
 
 > - Code refactored from [Wes Bos](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+>   <<<<<<< HEAD
+>   > > > > > > # Stashed changes
+>   > > > > > >
+>   > > > > > > 4c4020b7bc444f0e8081a63e4c9c5b57df40f485
