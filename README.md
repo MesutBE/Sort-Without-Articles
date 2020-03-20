@@ -1,4 +1,4 @@
-# Sort without Articles ( to be done yet !! )
+# Sort without Articles
 
 A static web page for an application built with only HTML, CSS & JavaScript. This project uses a data-set as an input list turn it to a sorted one according to the first word in the entries.
 
