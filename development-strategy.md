@@ -30,19 +30,30 @@ Building this site one step at a time
 
 ### DOM:
 
-- .....
+- Create tag for `section`.
+- Create class `user-interface` for section.
+- Create unordered list tag.
+- Create class `bands` to style items.
+- Add link to style file.
 
 ### Data:
 
-- ...
+- Create an object in `data.js`. It will be a list of bands.
 
 ### Log:
 
-- ....
+- Create a log state object to log the program steps.
+
+### Init:
+
+- Create necessary initialization to display unsorted list.
 
 ### Style:
 
-- .......
+- Create styles for `user-interface`.
+- Apply `https://source.unsplash.com/nDqA4d5NL0k/2000x2000` as a background image.
+- Create styles for `bands`.
+- Create styles for list items.
 
 ## 3. User Story: Sort the list
 
@@ -73,12 +84,10 @@ Building this site one step at a time
 
 ### View:
 
-- ......
+- Edit the view/view.js , add code to diisplay the list into dom (index.htm).
 
 ### Log:
 
-- .......
+- log the step intp the log array in view.js .
 
-### Style:
 
-- .......
