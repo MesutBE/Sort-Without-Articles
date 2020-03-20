@@ -1,10 +1,12 @@
 # Sort without Articles ( to be done yet !! )
 
-A static web page for rhythmic expression built with only HTML, CSS & JavaScript. This project uses .wav audio files and keypress events to turn the user's keyboard into a drum set.
+A static web page for an application built with only HTML, CSS & JavaScript. This project uses a data-set as an input list turn it to a sorted one according to the first word in the entries.
 
-Try the live demo [right here](https://hackyourfuture.be/drum-kit), it looks something like this:
+Try the live demo [right here](https://rashaali84.github.io/Sort-Without-Articles/index.html), it looks something like this:
 
-[![drum kit screen shot](./images/screen-shot.png)](https://hackyourfuture.be/drum-kit)
+[![sort without articles screen shot](./images/screen-shot.png)](https://rashaali84.github.io/Sort-Without-Articles/)
+
+[Please click here for the wireframe link of the project](https://wireframe.cc/arqJKs)
 
 ---
 
@@ -12,9 +14,12 @@ Try the live demo [right here](https://hackyourfuture.be/drum-kit), it looks som
 
 Studying this project we learned about:
 
-- Dynamically setting classes
-- Using the `<audio>` tag and .wav assets
-- How the query selector can be used to easily interact with many elements
+- Dynamically sorting arrays using .sort() .
+- Using arrow functions => for fewer code of lines instead of call back
+  functions .
+- How the query selector is used to access the dom .
+- using the regular expressions in replacing parts of a tring and also using trim()
+  to remove the space from the input string ( form begining and from the end).
 - How milestones, labels & issues can help organize work ->
   - user stories === milestones
   - tasks === issues
@@ -22,17 +27,17 @@ Studying this project we learned about:
 
 We struggled with:
 
-- How to create the development strategy. It was tricky to figure out that the `playHandler` can actually work without changing the `.played` class, once that was clear it was easier to create the _Keys Light Up_ user story.
-- We kept making mistakes with the `data-key` attributes and linking the wrong keys and sounds.
-- Merge Conflicts! whoever invented these has no soul
-- Keeping track of all the branches and forks. OMG, github is confusing
+- How to create the development strategy. and how to divide projects into organized folders .
+- We kept having conflicts in merging branches .
+- Keeping tracks of all forks and keep them updates with the original repository.
 
 These resources were very helpful:
 
 - [KeyBoard Event Values](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
 - [gmlwjd9405/git-collaboration](https://github.com/gmlwjd9405/git-collaboration)
 - [GitHub Project Management](https://github.com/features/project-management)
-
----
+- [Update your fork using different ways](https://rick.cogley.info/post/update-your-forked-repository-directly-on-github/)
+- [Update local repository](https://stackoverflow.com/questions/43205981/git-how-to-update-local-repository-and-keep-my-changes)
+- [Update your branch ](https://gist.github.com/santisbon/a1a60db1fb8eecd1beeacd986ae5d3ca)
 
 > - Code refactored from [Wes Bos](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
