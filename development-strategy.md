@@ -44,6 +44,10 @@ Building this site one step at a time
 
 - Create a log state object to log the program steps.
 
+### Init:
+
+- Create necessary initialization to display unsorted list.
+
 ### Style:
 
 - Create styles for `user-interface`.
