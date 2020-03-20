@@ -84,12 +84,10 @@ Building this site one step at a time
 
 ### View:
 
-- ......
+- Edit the view/view.js , add code to diisplay the list into dom (index.htm).
 
 ### Log:
 
-- .......
+- log the step intp the log array in view.js .
 
-### Style:
 
-- .......
